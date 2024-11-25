@@ -1,0 +1,17 @@
+.cuerpo{
+    display: flex;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+body{
+    background-color: rgb(226, 197, 143);
+    padding: 15px 25px;
+    background-image: url(img/fondo\ 2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.titulo{
+    color: white;
+}

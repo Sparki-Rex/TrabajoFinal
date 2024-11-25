@@ -1,0 +1,55 @@
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.botones_arriba a:link {
+    background-image: url(img/1.imagen_boton.webp);
+    background-repeat: no-repeat;
+    padding: 15px 25px;
+    text-align: center;
+    background-size: contain;
+    
+}
+
+body{
+    background-color: rgb(226, 197, 143);
+    padding: 15px 25px;
+    background-image: url(img/fondo\ 2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.verano{
+   
+    padding: 15px 25px;
+}
+.invierno{
+
+    padding: 15px 25px;
+
+}
+.Primavera{
+
+    padding: 15px 25px;
+}
+.Otoño{
+
+    padding: 15px 25px;
+}
+.fondo_sobre_fondo{
+    background-color:rgba(228, 175, 156, 0.582);
+    
+}
+
+.fondo_color_principal{
+    background-color:rgba(228, 217, 156, 0.582);
+    padding: 15px 25px;
+    
+}
+.fondo_biomas{
+    background-color:rgba(228, 175, 156, 0.582);
+    padding: 15px 25px;
+}
+.fondo_versiones{
+    background-color:rgba(228, 175, 156, 0.582);
+    padding: 15px 25px;
+}
